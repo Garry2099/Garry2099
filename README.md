@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Garry2099
+- 👋 Hi, I’m @victor
 - 👀 I’m interested in ...coding and anime
-- 🌱 I’m currently learning ...python and a bit of c
-- 💞️ I’m looking to collaborate on ...coding 
-- 📫 How to reach me ...at @garry._.re (Instagram)
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...rublix cube state champion
+- I’m currently learning ...python and a bit of c
+- I’m looking to collaborate on ...coding 
+- How to reach me ...at @victor._.re (Instagram)
+- Pronouns: ...he/him
+- Fun fact: ...rublix cube state champion
 
 <!---
 Garry2099/Garry2099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
