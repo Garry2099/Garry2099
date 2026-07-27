@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @victor
-- 👀 I’m interested in ...coding and anime
+- Hi, I’m @victor
+- I’m interested in ...coding and anime
 - I’m currently learning ...python and a bit of c
 - I’m looking to collaborate on ...coding 
 - How to reach me ...at @victor._.re (Instagram)
